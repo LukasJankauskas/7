@@ -1,0 +1,40 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #4DB7EC;
+  }
+
+.card {
+width: 20%;
+text-align: center;
+background: #fff;
+margin: 10% auto;
+}
+
+img {
+  width: 95%;
+
+}
+
+h4 {
+  padding: 10px;
+  border: 1px solid #000;
+}
+.contain
+ {
+  padding: 10px;
+  border: 1px solid #000;
+
+  strong {
+
+    padding: 10px;
+    border: 1px solid #000;
+  }
+  h3 {
+    padding: 10px;
+    border: 1px solid #000;
